@@ -1,0 +1,7 @@
+# Hello Git
+My first git repo
+
+# Edit below this line
+# --------------------
+
+Blah blah stuff and things.
